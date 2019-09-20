@@ -1,0 +1,1 @@
+<option value="<?php echo $color['colorcarro'];?>"><?php echo $color['colorcarro']; ?></option>

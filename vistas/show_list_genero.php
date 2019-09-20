@@ -1,0 +1,1 @@
+<option value="<?php echo $generos['genero'];?>"><?php echo $generos['genero']; ?></option>
